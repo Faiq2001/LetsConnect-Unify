@@ -56,7 +56,7 @@ const Navbar = () => {
             },
           }}
         >
-          Sociopedia
+          Lets Connect - Unify
         </Typography>
         {isNonMobileScreens && (
           <FlexBetween
